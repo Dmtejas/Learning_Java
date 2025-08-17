@@ -1,3 +1,5 @@
+import java.util.Collections;
+
 public class ThreadStates {
     public static void main(String[] args) {
         //Every time we create a new thread it creates a new state
@@ -8,5 +10,7 @@ public class ThreadStates {
         4) Waiting / Block state
         5) Dead state
          */
+
+        
     }
 }
